@@ -15,10 +15,8 @@ display: grid;
  gap: 40px;
 }
 .product-name{
-    font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 18px;
+    font-weight: bold;
+    line-height: 16px;
 }
 .product-info{
     margin-bottom: 0;

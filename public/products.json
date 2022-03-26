@@ -3,54 +3,63 @@
         "id": "623ec4e59bbd3890efb2fe70",
         "picture": "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2010/4/26/1/FNM_060110-Ice-Cream-Truck-062_s3x4.jpg.rend.hgtvcom.616.822.suffix/1382539328756.jpeg",
         "price": 33,
-        "name": "Vega Tran"
+        "name": "Vega Tran",
+        "brand": "Igloo"
     },
     {
         "id": "623ec4e56cdd49e649613388",
         "picture": "https://laketahoethisweek.com/sites/default/files/styles/ob_large/public/business/food-items/strawberry_cone_2.jpg",
         "price": 29,
-        "name": "Latisha Sheppard"
+        "name": "Latisha Sheppard",
+        "brand": "Igloo"
     },
     {
         "id": "623ec4e5eda06259402f9600",
         "picture": "https://bostononbudget.com/wp-content/uploads/2015/05/Friendlys-Ice-Cream-Cone.jpg",
         "price": 38,
-        "name": "Moore Evans"
+        "name": "Moore Evans",
+        "brand": "Bloop"
     },
     {
         "id": "623ec4e596c37322c9077cea",
         "picture": "https://images.fineartamerica.com/images/artworkimages/mediumlarge/2/ice-cream-cone-3-scoops-retroplanet.jpg",
         "price": 24,
-        "name": "Arnold Fry"
+        "name": "Arnold Fry",
+        "brand": "Igloo"
     },
     {
         "id": "623ec4e557da8fd3b9c2e656",
         "picture": "https://as2.ftcdn.net/v2/jpg/01/16/89/09/500_F_116890908_zbZ6GfiZxPxbegyIKSE8N5uvwZbaCpZ1.jpg",
         "price": 34,
-        "name": "Clarissa Ferguson"
+        "name": "Clarissa Ferguson",
+        "brand": "Bloop"
     },
     {
         "id": "623ec4e591e5f450211a5e31",
         "picture": "https://5.imimg.com/data5/TO/DE/II/SELLER-53811964/ice-cream-cone-500x500.jpg",
         "price": 32,
-        "name": "Craig Woods"
+        "name": "Craig Woods",
+        "brand": "Igloo"
     },
     {
         "id": "623ec4e548d2b88f34403f26",
         "picture": "https://previews.123rf.com/images/michaeljayfoto/michaeljayfoto1311/michaeljayfoto131100317/23891850-colorful-ice-cream-cone-with-three-scoops-isolated-on-white.jpg",
         "price": 33,
-        "name": "Caitlin Ramos"
+        "name": "Caitlin Ramos",
+        "brand": "Bloop"
     },
     {
         "id": "623ec4e521f67e41d34091f0",
         "picture": "https://as1.ftcdn.net/v2/jpg/02/67/33/06/500_F_267330679_2IsTkeOrkIvwroboJmtkSRwllKBYHyNA.jpg",
         "price": 22,
-        "name": "Marguerite Cervantes"
+        "name": "Marguerite Cervantes",
+        "brand": "Igloo"
     },
     {
         "id": "623ec4e59c52a3a21657b595",
         "picture": "https://previews.123rf.com/images/jenifoto/jenifoto2006/jenifoto200600015/148735725-dreifach-kugel-eist%C3%BCte-isoliert-auf-wei%C3%9F-mit-schokoladen-vanille-und-erdbeeraromen.jpg",
         "price": 35,
-        "name": "Lorna Wiley"
+        "name": "Lorna Wiley",
+        "brand": "Bloop"
     }
 ]

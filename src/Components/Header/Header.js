@@ -4,7 +4,7 @@ import './Header.css'
 const Header = () => {
     return (
         <nav className='nav'>
-            <h2>ICECREAM FANS</h2>
+            <h1>ICECREAM FANS</h1>
             <p>TAKE YOUR FIRST BITE</p>
         </nav>
     );
