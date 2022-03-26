@@ -6,3 +6,11 @@
 .cart-container{
     background-color: bisque;
 }
+
+@media only screen and (max-width: 600px) {
+.shop-container{
+    display:grid;  
+    grid-template-columns:1fr ;
+}
+
+}
