@@ -16,8 +16,8 @@ const Cart = ({ cart }) => {
                 )
             }
             <p>Selected Item:{cart.length}</p>
-            <p><button>CHOOSE 1 FOR ME</button></p>
-            <button>CHOOSE AGAIN</button>
+            <p><button className='btn-1'>CHOOSE 1 FOR ME</button></p>
+            <button className='btn-2'>CHOOSE AGAIN</button>
         </div>
     );
 };

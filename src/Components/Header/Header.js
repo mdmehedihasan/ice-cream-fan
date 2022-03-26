@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <nav className='nav'>
             <h1>ICECREAM FANS</h1>
-            <p>TAKE YOUR FIRST BITE</p>
+            <small>TAKE YOUR FIRST BITE</small>
         </nav>
     );
 };
