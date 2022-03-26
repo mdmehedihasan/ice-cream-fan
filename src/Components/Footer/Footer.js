@@ -17,7 +17,7 @@ const Footer = () => {
                     </ul>
                 </p>
             </div>
-            <div className='second'><h1>Q:1 Props VS State</h1>
+            <div className='second'><h1>Q:2 Props VS State</h1>
                 <h4>Props vs State differences are</h4>
                 <p className='right-para'>
                     <li>.Props cannot be modified but states can be modified using this.setState()</li>
