@@ -1,6 +1,6 @@
 # Assignment 8 For React
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Live Site Link](https://icecream-fans.netlify.app/).
 
 ## Available Scripts
 
