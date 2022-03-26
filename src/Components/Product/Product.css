@@ -42,3 +42,10 @@ display: grid;
 .btn-text{
     margin-right: 5px;
 }
+@media only screen and (max-width: 600px) {
+.products-container{
+display: grid;
+grid-template-columns: 1fr;
+gap: 5px;
+}
+}
