@@ -1,8 +1,11 @@
 .product{
     width: 400px;
     height: 510px;
-    border: 1px solid orange;
+    
     position: relative;
+    background-color: antiquewhite;
+    box-shadow: 3px 3px white, 0.5em 0 .4em rgb(218, 215, 174);
+
 }
 .product img{
     width: 286px;

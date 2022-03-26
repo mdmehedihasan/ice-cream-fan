@@ -10,13 +10,12 @@ const Cart = ({ cart }) => {
     }
     return (
         <div className='cart'>
-            <h3>Order Summary:</h3>
+            <button className='order-summary'><p>Order Summary:</p></button>
             {
-                cart.map(product => <h3>{product.name}</h3>
+                cart.map(product => <h3 className='clickedItem'>{product.name}</h3>
                 )
             }
             <p>Selected Item:{cart.length}</p>
-            <p>Total Price</p>
             <p><button>CHOOSE 1 FOR ME</button></p>
             <button>CHOOSE AGAIN</button>
         </div>
